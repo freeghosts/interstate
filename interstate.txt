@@ -1,0 +1,269 @@
+I-4 Tampa Florida Orlando Florida 89.5
+I-4 Orlando Florida Daytona_Beach Florida 57.8
+
+I-8 San_Diego California Casa_Grande Arizona 350.3
+
+I-10 Baton_Rouge Louisiana New_Orleans Louisiana 80.2
+I-10 Las_Cruces New_Mexico El_Paso Texas 48.9
+I-10 El_Paso Texas I-10_I-20 Texas 165
+I-10 I-10_I-20 Texas San_Antonio Texas 394
+I-10 Los_Angeles California Ontario California 36.8
+I-10 Ontario California Phoenix Arizona 338
+I-10 Phoenix Arizona Las_Cruces New_Mexico 388
+I-10 Santa_Monica California Los_Angeles California 15.8
+
+I-10 San_Antonio Texas Houston Texas 197
+I-10 Houston Texas Baton_Rouge Louisiana 272
+
+I-10 New_Orleans Louisiana Mobile Alabama 144
+I-10 Mobile Alabama Tallahassee Florida 243
+I-10 Tallahassee Florida Lake_City Florida 105
+I-10 Lake_City Florida Jacksonville Florida 64.6
+
+I-12 Baton_Rouge Louisiana Hammond Louisiana 45
+I-12 Hammond Louisiana Slidell Louisiana 48
+
+// Herve
+I-15 San_Diego California Corona California 97.1
+I-15 Corona California Victorville California 57.8
+I-15 Victorville California Barstow California 32.1
+I-15 Barstow California Primm Nevada 114
+I-15 Primm Nevada Las_Vegas Nevada 38.5
+I-15 Las_Vegas Nevada Mesquite Nevada 86.1
+I-15 Mesquite Nevada Littlefield Arizona 10.3
+I-15 Littlefield Arizona St_George Utah 28.8
+I-15 St_George Utah Beaver Utah 105
+I-15 Beaver Utah Salt_Lake_City Utah 199
+I-15 Salt_Lake_City Utah Layton Utah 24.2
+I-15 Layton Utah Odgen Utah 15.4
+I-15 Odgen Utah I-15_I-84 Utah 6.1
+I-15 I-15_I-84 Utah Tremonton Utah 34
+I-15 Tremonton Utah Oneida_County Idaho 58.8
+I-15 Oneida_County Idaho Pocatello Idaho 81.4
+I-15 Pocatello Idaho Idaho_Falls Idaho 51.7
+I-15 Idaho_Falls Idaho Beaverhead_County Montana 161
+I-15 Beaverhead_County Montana Butte Montana 89.7
+I-15 Butte Montana Helena Montana 69.2
+I-15 Helena Montana Toole_County Montana 199
+
+I-16 Macon Georgia Savannah Georgia 166
+
+I-17 Phoenix Arizona Flagstaff Arizona 147
+
+// Henry Flowers
+I-19 Nogales Arizona Rio_Rico Arizona 13.8
+I-19 Rio_Rico Arizona Green_Valley Arizona 34.5
+I-19 Green_Valley Arizona Sahuarita Arizona 9.8
+I-19 Sahuarita Arizona Drexel_Heights Arizona 21.0
+I-19 Drexel_Heights Arizona Tucson Arizona 12.4
+
+// Zach - QC'd by Kirk
+I-20 I-10_I-20 Texas Odessa Texas 112
+I-20 Odessa Texas Midland Texas 20.1
+I-20 Midland Texas Abilene Texas 148
+I-20 Abilene Texas I-20_I-30 Texas 128
+I-20 I-20_I-30 Texas I-20_I-35E Texas 42
+I-20 I-20_I-35E Texas I-20_I-45 Texas 6
+I-20 I-20_I-45 Texas Tyler Texas 86.9
+I-20 Tyler Texas Shreveport Louisiana 99
+I-20 Shreveport Louisiana Monroe Louisiana 30.7
+I-20 Monroe Louisiana Jackson Louisiana 120
+I-20 Jackson Louisiana Tuscaloosa Alabama 319
+I-20 Tuscaloosa Alabama Birmingham Alabama 50.5
+I-20 Birmingham Alamaba Atlanta Georgia 146
+I-20 Atlanta Georgia Augusta Georgia 145
+I-20 Augusta Georgia Columbia South_Carolina 77.1
+I-20 Columbia South_Carolina Florence South_Carolina 82.8
+
+I-24 Chattanooga Tennessee Nashville Tennessee 135
+I-24 Nashville Tennessee Eddyville Kentucky 104
+
+I-25 Las_Cruces New_Mexico Albuquerque New_Mexico 226
+I-25 Albuquerque New_Mexico Santa_Fe New_Mexico 61.4
+I-25 Santa_Fe New_Mexico Pueblo Colorado 281
+I-25 Pueblo Colorado Colorado_Springs Colorado 45.4
+I-25 Colorado_Springs Colorado Denver Colorado 70.3
+I-25 Denver Colorado Fort_Collins Colorado 64.9
+I-25 Fort_Collins Colorado Cheyenne Wyoming 46.1
+I-25 Cheyenne Wyoming Casper Wyoming 178
+I-25 Casper Wyoming Buffalo Wyoming 113
+
+I-26 Kingsport Tennessee I-26_I-81 Tennessee 11.2
+I-26 I-26_I-81 Tennessee Johnson_City Tennessee 15.3
+I-26 Johnson_City Tennessee Asheville North_Carolina 60.4
+I-26 Ashville North_Carolina I-26_I-85 South_Carolina 65.7
+I-26 I-26_I-85 South_Carolina I-26_I-385 South_Carolina 35.8
+I-26 I-26_I-385 South_Carolina Seven_Oaks South_Carolina 54.8
+I-26 Seven_Oaks South_Carolina Columbia South_Carolina 8.4
+I-26 Columbia South_Carolina I-26_I-95 South_Carolina 65.4
+I-26 I-26_I-95 South_Carolina North_Charleston South_Carolina 43.6
+I-26 North_Charleston South_Carolina Charleston South_Carolina 8.3
+
+I-27 Lubbock Texas Amarillo Texas 124
+
+I-29 Kansas_City Missouri St_Joseph Missouri 55.5
+I-29 St_Joseph Missouri Omaha Nebraska 136
+I-29 Omaha Nebraska Sioux_City South_Dakota 103
+I-29 Sioux_City South_Dakota Sioux_Falls South_Dakota 95.6
+I-29 Sioux_Falls South_Dakota Fargo North_Dakota 245
+
+// Kirk (incomplete) + HJR
+I-30 I-20_I-30 Texas Fort_Worth Texas 14
+I-30 Fort_Worth Texas Dallas Texas 30
+I-30 Dallas Texas Texarkana Texas 178
+I-30 Texarkana Texas Benton Arkansas 120
+I-30 Benton Arkansas Little_Rock Arkansas 25.6
+I-30 Little_Rock Arkansas North_Little_Rock Arkansas 6.9
+
+// Kirk
+I-35 Minneapolis Minnesota Duluth Minnesota 154
+I-35 Minneapolis Minnesota Albert_Lea Minnesota 97.5
+I-35 Albert_Lea Minnesota Des_Moines Iowa 149
+I-35 Kansas_City Missouri Des_Moines Iowa 194
+I-35 Emporia Kansas Kansas_City Missouri 108
+I-35 Wichita Kansas Emporia Kansas 87.8
+I-35 Oklahoma_City Oklahoma Wichita Kansas 162
+I-35 Denton Texas Oklahoma_City Oklahoma 167
+I-35E Dallas Texas Denton Texas 38.9
+I-35W Fort_Worth Texas Denton Texas 40.1
+I-35W Fort_Worth Texas Hillsboro Texas 53.2
+I-35E Dallas Texas Hillsboro Texas 62.3
+I-35 Waco Texas Hillsboro Texas 33.8
+I-35 Austin Texas Waco Texas 103
+I-35 Austin Texas San_Antonio Texas 79.8
+I-35 San_Antonio Texas Laredo Texas 157
+
+I-40 Barstow California Albuquerque New_Mexico 676
+I-40 Albuquerque New_Mexico Amarillo Texas 285
+I-40 Amarillo Texas Oklahoma_City Oklahoma 260
+I-40 Oklahoma_City Oklahoma Little_Rock Arkansas 339
+I-40 Little_Rock Arkansas West_Memphis Arkansas 129
+I-40 West_Memphis Arkansas Nashville Tennessee 221
+I-40 Nashville Tennessee Knoxville Tennessee 180
+I-40 Knoxville Tennessee Greensboro North_Carolina 286
+I-40 Greensboro North_Carolina Raleigh North_Carolina 81.6
+I-40 Raleigh North_Carolina Benson North_Carolina 32.2
+
+I-43 Elkhorn Wisconsin New_Berlin Wisconsin 32
+I-43 New_Berlin Wisconsin Milwaukee Wisconsin 15
+I-43 Milwaukee Wisconsin Sheboygan Wisconsin 58
+I-43 Sheboygan Wisconsin Manitowoc Wisconsin 29
+I-43 Manitowoc Wisconsin Green_Bay Wisconsin 43
+I-43 Green_Bay Wisconsin Howard Wisconsin 6
+
+I-44 Wichita_Falls Texas Oklahoma_City Oklahoma 139
+I-44 Oklahoma_City Oklahoma Tulsa Oklahoma 107
+I-44 Tulsa Oklahoma St._Louis Missouri 395
+
+I-45 Conroe Texas Houston Texas 40.9
+I-45 Corsicana Texas Huntsville Texas 117
+I-45 Dallas Texas Ennis Texas 35.2
+I-45 Ennis Texas Corsicana Texas 21.3
+I-45 Houston Texas Galveston Texas 51.2
+I-45 Huntsville Texas Conroe Texas 31.1
+
+I-49 Lafayette Louisianna Shreveport Louisianna 212
+
+I-55 LaPlace Louisianna Hammond Louisianna 35.2
+I-55 Hammond Louisianna Jackson Missouri 132
+I-55 Jackson Missouri Memphis Tennessee 210
+I-55 Memphis Tennessee Sikeston Missouri 144
+I-55 Sikeston Missouri St._Louis Missouri 146
+I-55 St._Louis Missouri Springfield Illinois 96.3
+I-55 Springfield Illinois Bloomington Illinois 71.7
+I-55 Bloomington Illinois Joliet Illinois 97.8
+I-55 Joliet Illinois Chicago Illinois 39.6
+
+I-57 Chicago Illinois Champaign Illinois 138
+I-57 Champaign Illinois Effingham Illinois 80.5
+I-57 Effingham Illinois Mt_Vernon Illinois 69.1
+I-57 Mt_Vernon Illinois I-24_I-57 Illinois 65.8
+I-57 I-24_I-57 Illinois Sikeston Missouri 69.9
+
+// Trevor Howard
+I-65 Mobile Alabama Montgomery Alabama 168
+I-65 Montgomery Alabama Birmingham Alabama 91.3
+I-65 Birmingham Alabama Nashville Tennessee 192
+I-65 Nashville Tennessee Louisville Kentucky 174
+I-65 Louisville Kentucky Indianapolis Indiana 114
+I-65 Indianapolis Indiana Chicago Illinois 183
+
+I-68 Morgantown West_Virginia Hancock Maryland 116
+
+// HJR
+I-90 Seattle Washington Bellevue Washington 10.4
+I-90 Bellevue Washington Ellensburg Washington 102
+I-90 Ellensburg Washington Spokane Washington 173
+I-90 Spokane Washington Coeur_d'Alene Idaho 33.8 
+I-90 Coeur_d'Alene Idaho Missoula Montana 165
+I-90 Missoula Montana Butte Montana 118
+I-90 Butte Montana Bozeman Montana 85.1
+I-90 Bozeman Montana Billings Montana 141
+I-90 Billings Montana I-90_I-94 Montana 18.6
+I-90 I-90_I-94 Montana Sheridan Wyoming 124
+I-90 Sheridan Wyoming I-90_I-25 Wyoming 34.9
+I-90 I-90_I-25 Wyoming Gillette Wyoming 68.9
+I-90 Gillette Wyoming Rapid_City South_Dakota 141
+I-90 Rapid_City South_Dakota Sioux_Falls South_Dakota 347
+I-90 Sioux_Falls South_Dakota Albert_Lea Minnesota 177
+I-90 Albert_Lea Minnesota Rochester Minnesota 64.4
+I-90 Rochester Minnesota La_Crosse Wisconsin 74.6
+I-90 La_Crosse Wisconsin I-90_I-94 Wisconsin 45.8
+I-90 I-90_I-94 Wisconsin Portage Wisconsin 65.4
+I-90 Portage Wisconsin Madison Wisconsin 38.4
+I-90 Madison Wisconsin Janesville Wisconsin 40.3
+I-90 Janesville Wisconsin I-90_I-43 Wisconsin 13.6
+I-90 I-90_I-43 Wisconsin Rockford Illinois 22.4
+I-90 Rockford Illinois Chicago Illinois 88.2 
+I-90 Chicago Illinois Gary Indiana 31.8
+I-90 Gary Indiana South_Bend Indiana 66.6
+I-90 South_Bend Indiana I-90_I-69 Indiana 70.5
+I-90 I-90_I-69 Indiana Toledo Ohio 86.5
+I-90 Toledo Ohio Cleveland Ohio 116
+I-90 Cleveland Ohio Erie Pennsylvania 103
+I-90 Erie Pennsylvania I-90_I-86 Pennsylvania 11.7
+I-90 I-90_I-86 Pennsylvania Buffalo New_York 84.3
+I-90 Buffalo New_York Rochester New_York 76.4
+I-90 Rochester New_York Syracuse New_York 87.8
+I-90 Syracuse New_York Utica New_York 55
+I-90 Utica New_York Schenectady New_York 77.6
+I-90 Schenectady New_York Albany New_York 19.9
+I-90 Albany New_York Springfield Massachusetts 87.4
+I-90 Springfield Massachusetts I-90_I-84 Massachusetts 33.8
+I-90 I-90_I-84 Massachusetts Worcester Massachusetts 21.9
+I-90 Worcester Massachusetts Newton Massachusetts 38.6
+I-90 Newton Massachusetts Boston Massachusetts 10.9
+
+// Christopher Hazen
+I-95 Miami Florida Ft_Lauderdale Florida 30.1
+I-95 Ft_Lauderdale Florida Daytona_Beach Florida 241
+I-95 Daytona_Beach Florida Jacksonville Florida 89.1
+I-95 Jacksonville Florida Savannah Georgia 139
+I-95 Savannah Georgia I-95_I-26 Georgia 96.7
+I-95 I-95_I-26 Georgia Florence South_Carolina 80.2
+I-95 Florence South_Carolina I-95_I-74 North_Carolina 53.6
+I-95 I-95_I-74 North_Carolina Fayetteville North_Carolina 42.4
+I-95 Fayetteville North_Carolina I-95_I-40 North_Carolina 35.1
+I-95 I-95_I-40 North_Carolina Richmond Virginia 176
+I-95 Richmond Virginia Washington DC 109
+I-95 Washington DC Baltimore Maryland 44.1
+I-95 Baltimore Maryland Philadelphia Pennsylvania 106
+I-95 Philadelphia Pennsylvania Trenton New_Jersey 33.4
+I-95 Trenton New_Jersey Newark New_Jersey 58.5
+I-95 Newark New_Jersey New_York_City New_York 17.2
+I-95 New_York_City New_York New_Haven Connecticut 80.2
+I-95 New_Haven Connecticut Providence Rhode_Island 103
+I-95 Providence Rhode_Island Boston Massachusetts 45.4
+I-95 Boston Massachusetts Portland Maine 117
+I-95 Portland Maine Bangor Maine 138
+I-95 Bangor Maine Houlton Maine 121
+
+// Alexis Addison
+I-96 Muskegon Michigan Grand_Rapids Michigan 42
+I-96 Grand_Rapids Michigan Lansing Michigan 68.2
+I-96 Lansing Michigan Novi Michigan 129
+I-96 Novi Michigan Detroit Michigan 28.5
+
+// Alexis Addison
+I-97 Annapolis Maryland Glen_Burnie Maryland 20
+I-97 Glen_Burnie Maryland Baltimore Maryland 13.1
