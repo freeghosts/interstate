@@ -7,7 +7,7 @@ Interstate is a mapping program for US interstate highways. It is written in Jav
 Linux, Mac OS, and Windows
 
 >[!NOTE]
->Newer releases of JGraphT throw errors at runtime. Version 0.9.1 is included as a .jar in the folder "interstate"
+>Newer releases of JGraphT throw errors at runtime. Version 0.9.1 is included as a .jar in the lib folder
 >For other versions or to use JGraphT via Maven: https://jgrapht.org/
 
 ### Run On Terminal
